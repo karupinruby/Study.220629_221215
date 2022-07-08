@@ -13,6 +13,9 @@ public class Prac1String {
 		
 		
 		
+		int[][] num;
+		int[][] age = new int[num.length][];
+		
 		
 		
 		
